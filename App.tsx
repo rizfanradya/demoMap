@@ -35,75 +35,126 @@ export default function App() {
       <Maps />
       <View
         style={{
-          padding: 16,
+          padding: 6,
           backgroundColor: 'white',
           flexDirection: 'row',
           justifyContent: 'space-around',
           width: '100%',
         }}>
         <TouchableHighlight
-          style={{
-            backgroundColor: 'blue',
-            borderRadius: 20,
-            padding: 10,
-            elevation: 2,
-          }}
+          underlayColor={'transparent'}
           onPress={() => setModalVisible(true)}>
-          <Image
-            style={{width: 50}}
-            source={require('./src/assets/svgs/home.png')}
-          />
+          <Image source={require('./src/assets/svgs/home.png')} />
         </TouchableHighlight>
       </View>
-      <Modal
-        animationType="slide"
-        transparent={true}
-        visible={modalVisible}
-        onRequestClose={() => {
-          setModalVisible(!modalVisible);
-        }}>
+
+      <Modal animationType="slide" transparent={true} visible={modalVisible}>
         <View
           style={{
             flex: 1,
-            justifyContent: 'center',
-            alignItems: 'center',
+            position: 'relative',
           }}>
+          <TouchableHighlight
+            style={{
+              flex: 1,
+              backgroundColor: 'rgba(0, 0, 0, 0.5)',
+            }}
+            underlayColor={'transparent'}
+            onPress={() => setModalVisible(false)}>
+            <View />
+          </TouchableHighlight>
+
           <View
             style={{
-              margin: 20,
-              backgroundColor: 'white',
-              padding: 35,
-              alignItems: 'center',
+              flex: 1,
               justifyContent: 'center',
-              borderRadius: 10,
-              width: '80%',
+              alignItems: 'center',
+              position: 'absolute',
+              right: 10,
+              left: 10,
+              top: '10%',
+              bottom: '10%',
             }}>
-            <Text style={{color: 'black', fontWeight: 'bold'}}>Dashboard</Text>
-
-            <TouchableHighlight
-              style={{...styles.openButton, backgroundColor: '#2196F3'}}
-              onPress={() => {
-                setModalVisible(!modalVisible);
+            <View
+              style={{
+                margin: 20,
+                backgroundColor: 'white',
+                padding: 16,
+                justifyContent: 'center',
+                borderRadius: 5,
+                width: '80%',
               }}>
-              <Text style={{color: 'white'}}>Close</Text>
-            </TouchableHighlight>
+              <Text
+                style={{
+                  color: 'black',
+                  fontWeight: 'bold',
+                  fontSize: 20,
+                }}>
+                Dashboard
+              </Text>
+
+              <View
+                style={{
+                  width: '100%',
+                  height: 3,
+                  backgroundColor: '#524C42',
+                  marginTop: 12,
+                }}></View>
+
+              <View style={{margin: 20, display: 'flex', gap: 14}}>
+                <View
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'row',
+                    gap: 8,
+                    alignItems: 'center',
+                  }}>
+                  <Image
+                    style={{width: 35, height: 35}}
+                    source={require('./src/assets/imgs/work-on-progress.jpg')}
+                  />
+                  <Text
+                    style={{color: 'black', fontSize: 16, fontWeight: '500'}}>
+                    3 Developments
+                  </Text>
+                </View>
+                <View
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'row',
+                    gap: 8,
+                    alignItems: 'center',
+                  }}>
+                  <Image
+                    style={{width: 40, height: 30}}
+                    source={require('./src/assets/imgs/car-crash.jpg')}
+                  />
+                  <Text
+                    style={{color: 'black', fontSize: 16, fontWeight: '500'}}>
+                    2 Accidents
+                  </Text>
+                </View>
+                <View
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'row',
+                    gap: 8,
+                    alignItems: 'center',
+                  }}>
+                  <Image
+                    style={{width: 40, height: 30}}
+                    source={require('./src/assets/imgs/arrow-road.png')}
+                  />
+                  <Text
+                    style={{color: 'black', fontSize: 16, fontWeight: '500'}}>
+                    4 Flow Directions
+                  </Text>
+                </View>
+              </View>
+            </View>
           </View>
         </View>
       </Modal>
     </View>
   );
 }
-
-const styles = {
-  buttonText: {
-    color: 'white',
-    textAlign: 'center',
-  },
-  openButton: {
-    backgroundColor: '#F194FF',
-    borderRadius: 20,
-    padding: 10,
-    elevation: 2,
-    marginTop: 20,
-  },
-};
