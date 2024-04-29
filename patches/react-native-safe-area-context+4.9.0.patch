@@ -1,0 +1,1077 @@
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/results.bin b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/results.bin
+new file mode 100644
+index 0000000..5ff383e
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/results.bin
+@@ -0,0 +1 @@
++o/debug
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerDelegate.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerDelegate.dex
+new file mode 100644
+index 0000000..bc9bdfb
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerDelegate.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerInterface.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerInterface.dex
+new file mode 100644
+index 0000000..002fd79
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerInterface.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerDelegate.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerDelegate.dex
+new file mode 100644
+index 0000000..71c75f7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerDelegate.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerInterface.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerInterface.dex
+new file mode 100644
+index 0000000..3c22af1
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerInterface.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/BuildConfig.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/BuildConfig.dex
+new file mode 100644
+index 0000000..5dad92b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/BuildConfig.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/EdgeInsets.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/EdgeInsets.dex
+new file mode 100644
+index 0000000..88bdc65
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/EdgeInsets.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/InsetsChangeEvent$Companion.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/InsetsChangeEvent$Companion.dex
+new file mode 100644
+index 0000000..8e007ff
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/InsetsChangeEvent$Companion.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/InsetsChangeEvent.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/InsetsChangeEvent.dex
+new file mode 100644
+index 0000000..7919fc9
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/InsetsChangeEvent.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/NativeSafeAreaContextSpec.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/NativeSafeAreaContextSpec.dex
+new file mode 100644
+index 0000000..8d80036
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/NativeSafeAreaContextSpec.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/Rect.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/Rect.dex
+new file mode 100644
+index 0000000..f36cb0b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/Rect.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/Safe.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/Safe.dex
+new file mode 100644
+index 0000000..dd9c326
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/Safe.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaContextModule$Companion.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaContextModule$Companion.dex
+new file mode 100644
+index 0000000..e24373c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaContextModule$Companion.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaContextModule.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaContextModule.dex
+new file mode 100644
+index 0000000..98a0cb3
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaContextModule.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaContextPackage.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaContextPackage.dex
+new file mode 100644
+index 0000000..5269773
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaContextPackage.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProvider.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProvider.dex
+new file mode 100644
+index 0000000..bc758b8
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProvider.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderKt.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderKt.dex
+new file mode 100644
+index 0000000..b5aac36
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderKt.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManager$Companion.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManager$Companion.dex
+new file mode 100644
+index 0000000..a12b626
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManager$Companion.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManager$addEventEmitters$1.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManager$addEventEmitters$1.dex
+new file mode 100644
+index 0000000..c0326b7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManager$addEventEmitters$1.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManager.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManager.dex
+new file mode 100644
+index 0000000..50dd9f0
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManager.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManagerKt.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManagerKt.dex
+new file mode 100644
+index 0000000..8d4c57c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaProviderManagerKt.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaUtilsKt.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaUtilsKt.dex
+new file mode 100644
+index 0000000..87f727e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaUtilsKt.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaView.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaView.dex
+new file mode 100644
+index 0000000..614faaa
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaView.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewEdgeModes.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewEdgeModes.dex
+new file mode 100644
+index 0000000..017541d
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewEdgeModes.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewEdges.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewEdges.dex
+new file mode 100644
+index 0000000..643a25c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewEdges.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewKt.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewKt.dex
+new file mode 100644
+index 0000000..a77ab1a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewKt.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.dex
+new file mode 100644
+index 0000000..d4f62da
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewManager$Companion.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewManager$Companion.dex
+new file mode 100644
+index 0000000..bbdf86b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewManager$Companion.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewManager.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewManager.dex
+new file mode 100644
+index 0000000..61bddbb
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewManager.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewMode.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewMode.dex
+new file mode 100644
+index 0000000..9dbd2c2
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewMode.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.dex
+new file mode 100644
+index 0000000..9d4999d
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SerializationUtilsKt.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SerializationUtilsKt.dex
+new file mode 100644
+index 0000000..5850637
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/SerializationUtilsKt.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/UIManagerHelperCompatKt.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/UIManagerHelperCompatKt.dex
+new file mode 100644
+index 0000000..4392b9b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/debug_dex/com/th3rdwave/safeareacontext/UIManagerHelperCompatKt.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/desugar_graph.bin b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/desugar_graph.bin
+new file mode 100644
+index 0000000..601f245
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/34cea266fc059be4fa49fd4be3f80604/transformed/debug/desugar_graph.bin differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/8dfea7015061f2697f501c4ac3be39ea/results.bin b/node_modules/react-native-safe-area-context/android/build/.transforms/8dfea7015061f2697f501c4ac3be39ea/results.bin
+new file mode 100644
+index 0000000..0d259dd
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/.transforms/8dfea7015061f2697f501c4ac3be39ea/results.bin
+@@ -0,0 +1 @@
++o/classes
+diff --git a/node_modules/react-native-safe-area-context/android/build/.transforms/8dfea7015061f2697f501c4ac3be39ea/transformed/classes/classes_dex/classes.dex b/node_modules/react-native-safe-area-context/android/build/.transforms/8dfea7015061f2697f501c4ac3be39ea/transformed/classes/classes_dex/classes.dex
+new file mode 100644
+index 0000000..11a725a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/.transforms/8dfea7015061f2697f501c4ac3be39ea/transformed/classes/classes_dex/classes.dex differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/generated/source/buildConfig/debug/com/th3rdwave/safeareacontext/BuildConfig.java b/node_modules/react-native-safe-area-context/android/build/generated/source/buildConfig/debug/com/th3rdwave/safeareacontext/BuildConfig.java
+new file mode 100644
+index 0000000..e9dab34
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/generated/source/buildConfig/debug/com/th3rdwave/safeareacontext/BuildConfig.java
+@@ -0,0 +1,12 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.th3rdwave.safeareacontext;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "com.th3rdwave.safeareacontext";
++  public static final String BUILD_TYPE = "debug";
++  // Field from default config.
++  public static final boolean IS_NEW_ARCHITECTURE_ENABLED = false;
++}
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml b/node_modules/react-native-safe-area-context/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..8652dce
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.th3rdwave.safeareacontext" >
++
++    <uses-sdk android:minSdkVersion="23" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json b/node_modules/react-native-safe-area-context/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+new file mode 100644
+index 0000000..597d6e0
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.th3rdwave.safeareacontext",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/aar_metadata/debug/aar-metadata.properties b/node_modules/react-native-safe-area-context/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+new file mode 100644
+index 0000000..1211b1e
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+@@ -0,0 +1,6 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minCompileSdkExtension=0
++minAndroidGradlePluginVersion=1.0.0
++coreLibraryDesugaringEnabled=false
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json b/node_modules/react-native-safe-area-context/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/compile_library_classes_jar/debug/classes.jar b/node_modules/react-native-safe-area-context/android/build/intermediates/compile_library_classes_jar/debug/classes.jar
+new file mode 100644
+index 0000000..52ccaf7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/compile_library_classes_jar/debug/classes.jar differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/compile_r_class_jar/debug/R.jar b/node_modules/react-native-safe-area-context/android/build/intermediates/compile_r_class_jar/debug/R.jar
+new file mode 100644
+index 0000000..60b929c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/compile_r_class_jar/debug/R.jar differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/compile_symbol_list/debug/R.txt b/node_modules/react-native-safe-area-context/android/build/intermediates/compile_symbol_list/debug/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..ca60617
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Thu Apr 25 21:19:21 MYT 2024
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..eecdfc0
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/build/generated/res/resValues/debug"/></dataSet><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..f0625f3
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/mergeDebugShaders/merger.xml b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+new file mode 100644
+index 0000000..eb94d3f
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/debug/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageDebugAssets/merger.xml b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+new file mode 100644
+index 0000000..817bc6b
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/assets"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/debug/assets"/></dataSet><dataSet config="generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/build/intermediates/shader_assets/debug/out"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/java_res/debug/out/META-INF/react-native-safe-area-context_debug.kotlin_module b/node_modules/react-native-safe-area-context/android/build/intermediates/java_res/debug/out/META-INF/react-native-safe-area-context_debug.kotlin_module
+new file mode 100644
+index 0000000..6131ff0
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/java_res/debug/out/META-INF/react-native-safe-area-context_debug.kotlin_module differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerDelegate.class b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerDelegate.class
+new file mode 100644
+index 0000000..b54b355
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerDelegate.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerInterface.class b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerInterface.class
+new file mode 100644
+index 0000000..5d6bde3
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerInterface.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerDelegate.class b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerDelegate.class
+new file mode 100644
+index 0000000..a2989c2
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerDelegate.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerInterface.class b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerInterface.class
+new file mode 100644
+index 0000000..683142b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerInterface.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/th3rdwave/safeareacontext/BuildConfig.class b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/th3rdwave/safeareacontext/BuildConfig.class
+new file mode 100644
+index 0000000..0855540
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/th3rdwave/safeareacontext/BuildConfig.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/th3rdwave/safeareacontext/NativeSafeAreaContextSpec.class b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/th3rdwave/safeareacontext/NativeSafeAreaContextSpec.class
+new file mode 100644
+index 0000000..f9c99c7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/javac/debug/classes/com/th3rdwave/safeareacontext/NativeSafeAreaContextSpec.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/local_only_symbol_list/debug/R-def.txt b/node_modules/react-native-safe-area-context/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt b/node_modules/react-native-safe-area-context/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..8319367
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,7 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.th3rdwave.safeareacontext" >
++4
++5    <uses-sdk android:minSdkVersion="23" />
++6
++7</manifest>
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml b/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+new file mode 100644
+index 0000000..8652dce
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.th3rdwave.safeareacontext" >
++
++    <uses-sdk android:minSdkVersion="23" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/navigation_json/debug/navigation.json b/node_modules/react-native-safe-area-context/android/build/intermediates/navigation_json/debug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/navigation_json/debug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/META-INF/react-native-safe-area-context_debug.kotlin_module b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/META-INF/react-native-safe-area-context_debug.kotlin_module
+new file mode 100644
+index 0000000..6131ff0
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/META-INF/react-native-safe-area-context_debug.kotlin_module differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerDelegate.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerDelegate.class
+new file mode 100644
+index 0000000..b54b355
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerDelegate.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerInterface.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerInterface.class
+new file mode 100644
+index 0000000..5d6bde3
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaProviderManagerInterface.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerDelegate.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerDelegate.class
+new file mode 100644
+index 0000000..a2989c2
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerDelegate.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerInterface.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerInterface.class
+new file mode 100644
+index 0000000..683142b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/facebook/react/viewmanagers/RNCSafeAreaViewManagerInterface.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/BuildConfig.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/BuildConfig.class
+new file mode 100644
+index 0000000..0855540
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/BuildConfig.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/EdgeInsets.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/EdgeInsets.class
+new file mode 100644
+index 0000000..e481ec1
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/EdgeInsets.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent$Companion.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent$Companion.class
+new file mode 100644
+index 0000000..ffbde39
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent$Companion.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent.class
+new file mode 100644
+index 0000000..7d62170
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/NativeSafeAreaContextSpec.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/NativeSafeAreaContextSpec.class
+new file mode 100644
+index 0000000..f9c99c7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/NativeSafeAreaContextSpec.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/Rect.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/Rect.class
+new file mode 100644
+index 0000000..1602b8c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/Rect.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/Safe.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/Safe.class
+new file mode 100644
+index 0000000..fa30fb6
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/Safe.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule$Companion.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule$Companion.class
+new file mode 100644
+index 0000000..6bffa3e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule$Companion.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule.class
+new file mode 100644
+index 0000000..f6c4417
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaContextPackage.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaContextPackage.class
+new file mode 100644
+index 0000000..5de9885
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaContextPackage.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProvider.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProvider.class
+new file mode 100644
+index 0000000..9aaf22b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProvider.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderKt.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderKt.class
+new file mode 100644
+index 0000000..5644d48
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$Companion.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$Companion.class
+new file mode 100644
+index 0000000..3075b70
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$Companion.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$addEventEmitters$1.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$addEventEmitters$1.class
+new file mode 100644
+index 0000000..7e3e33b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$addEventEmitters$1.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager.class
+new file mode 100644
+index 0000000..f25d306
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManagerKt.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManagerKt.class
+new file mode 100644
+index 0000000..0d2038a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManagerKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaUtilsKt.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaUtilsKt.class
+new file mode 100644
+index 0000000..becdec5
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaUtilsKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaView.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaView.class
+new file mode 100644
+index 0000000..766354c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaView.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdgeModes.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdgeModes.class
+new file mode 100644
+index 0000000..962557a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdgeModes.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdges.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdges.class
+new file mode 100644
+index 0000000..1098432
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdges.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewKt.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewKt.class
+new file mode 100644
+index 0000000..dba782e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.class
+new file mode 100644
+index 0000000..8a98f78
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager$Companion.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager$Companion.class
+new file mode 100644
+index 0000000..13e973a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager$Companion.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager.class
+new file mode 100644
+index 0000000..4302bdf
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewMode.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewMode.class
+new file mode 100644
+index 0000000..1d47183
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewMode.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.class
+new file mode 100644
+index 0000000..1334fb4
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SerializationUtilsKt.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SerializationUtilsKt.class
+new file mode 100644
+index 0000000..fc17969
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/SerializationUtilsKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/UIManagerHelperCompatKt.class b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/UIManagerHelperCompatKt.class
+new file mode 100644
+index 0000000..492f89d
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_dir/debug/com/th3rdwave/safeareacontext/UIManagerHelperCompatKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar
+new file mode 100644
+index 0000000..7831106
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt b/node_modules/react-native-safe-area-context/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+new file mode 100644
+index 0000000..0feb4e2
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+@@ -0,0 +1 @@
++com.th3rdwave.safeareacontext
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab
+new file mode 100644
+index 0000000..cc9394c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream
+new file mode 100644
+index 0000000..272108a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len
+new file mode 100644
+index 0000000..70a2faf
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len
+new file mode 100644
+index 0000000..9911af5
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at
+new file mode 100644
+index 0000000..ae2ee8f
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i
+new file mode 100644
+index 0000000..10f613e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab
+new file mode 100644
+index 0000000..c27750b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream
+new file mode 100644
+index 0000000..ae760d4
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len
+new file mode 100644
+index 0000000..fe298c7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len
+new file mode 100644
+index 0000000..b31f54b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at
+new file mode 100644
+index 0000000..90a102a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i
+new file mode 100644
+index 0000000..8c9b0dc
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab
+new file mode 100644
+index 0000000..088ad89
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream
+new file mode 100644
+index 0000000..ae760d4
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len
+new file mode 100644
+index 0000000..fe298c7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len
+new file mode 100644
+index 0000000..b31f54b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at
+new file mode 100644
+index 0000000..3b401e1
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i
+new file mode 100644
+index 0000000..8c9b0dc
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab
+new file mode 100644
+index 0000000..a6ede86
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream
+new file mode 100644
+index 0000000..7cf82bf
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len
+new file mode 100644
+index 0000000..21d4c2e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len
+new file mode 100644
+index 0000000..93a595b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at
+new file mode 100644
+index 0000000..387503a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i
+new file mode 100644
+index 0000000..db795f0
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab
+new file mode 100644
+index 0000000..192e553
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream
+new file mode 100644
+index 0000000..5dfefd5
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len
+new file mode 100644
+index 0000000..d8996e7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len
+new file mode 100644
+index 0000000..be9fd94
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at
+new file mode 100644
+index 0000000..b73a103
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i
+new file mode 100644
+index 0000000..b64816b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab
+new file mode 100644
+index 0000000..d06fb14
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream
+new file mode 100644
+index 0000000..bb061ec
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len
+new file mode 100644
+index 0000000..90c90ce
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at
+new file mode 100644
+index 0000000..42d855a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i
+new file mode 100644
+index 0000000..2860cc0
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab
+new file mode 100644
+index 0000000..d2ae4c7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream
+new file mode 100644
+index 0000000..76f2ac0
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len
+new file mode 100644
+index 0000000..7cbe639
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len
+new file mode 100644
+index 0000000..9e27f73
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at
+new file mode 100644
+index 0000000..d06c58f
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i
+new file mode 100644
+index 0000000..0146475
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab
+new file mode 100644
+index 0000000..04e8c7e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream
+new file mode 100644
+index 0000000..1564da8
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len
+new file mode 100644
+index 0000000..0a77736
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len
+new file mode 100644
+index 0000000..be9fd94
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at
+new file mode 100644
+index 0000000..ddbc707
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i
+new file mode 100644
+index 0000000..3cc48fe
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab
+new file mode 100644
+index 0000000..ae8c9c9
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream
+new file mode 100644
+index 0000000..a9a02e9
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len
+new file mode 100644
+index 0000000..d4bcbd3
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len
+new file mode 100644
+index 0000000..14f7c06
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at
+new file mode 100644
+index 0000000..ae1ead0
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i
+new file mode 100644
+index 0000000..4d00fe3
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab
+new file mode 100644
+index 0000000..58e5d5a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream
+new file mode 100644
+index 0000000..0341732
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len
+new file mode 100644
+index 0000000..9e67d13
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len
+new file mode 100644
+index 0000000..003bc0e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at
+new file mode 100644
+index 0000000..3d2b4e1
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i
+new file mode 100644
+index 0000000..cb0780c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab
+new file mode 100644
+index 0000000..e6a0a36
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream
+new file mode 100644
+index 0000000..9db50aa
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len
+new file mode 100644
+index 0000000..123468c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len
+new file mode 100644
+index 0000000..a541356
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at
+new file mode 100644
+index 0000000..16fee10
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i
+new file mode 100644
+index 0000000..5e32d59
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+new file mode 100644
+index 0000000..c7c4318
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+@@ -0,0 +1,2 @@
++16
++0
+\ No newline at end of file
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab
+new file mode 100644
+index 0000000..94e1909
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream
+new file mode 100644
+index 0000000..e8fdf50
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len
+new file mode 100644
+index 0000000..70a2faf
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len
+new file mode 100644
+index 0000000..9911af5
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at
+new file mode 100644
+index 0000000..bd7303f
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i
+new file mode 100644
+index 0000000..5dfbd6e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab
+new file mode 100644
+index 0000000..e46ea1f
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream
+new file mode 100644
+index 0000000..7f88049
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len
+new file mode 100644
+index 0000000..c0f177d
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len
+new file mode 100644
+index 0000000..9911af5
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at
+new file mode 100644
+index 0000000..923add0
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i
+new file mode 100644
+index 0000000..242a9b6
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab
+new file mode 100644
+index 0000000..817e836
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream
+new file mode 100644
+index 0000000..e8e9b9f
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len
+new file mode 100644
+index 0000000..1c11cb2
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len
+new file mode 100644
+index 0000000..d6ef42f
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at
+new file mode 100644
+index 0000000..cff8608
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i
+new file mode 100644
+index 0000000..010c4f7
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin
+new file mode 100644
+index 0000000..fcffa99
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin
+new file mode 100644
+index 0000000..97981d6
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin
+new file mode 100644
+index 0000000..70dee22
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/react-native-safe-area-context/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..4aa514b
+--- /dev/null
++++ b/node_modules/react-native-safe-area-context/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,17 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml:2:1-5:12
++INJECTED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml:2:1-5:12
++	package
++		ADDED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml:4:3-42
++		INJECTED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml:3:2-60
++uses-sdk
++INJECTED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml
++INJECTED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/younis/Desktop/Projects-Working/demoMap/node_modules/react-native-safe-area-context/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/react-native-safe-area-context/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..8afa6b8
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/META-INF/react-native-safe-area-context_debug.kotlin_module b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/META-INF/react-native-safe-area-context_debug.kotlin_module
+new file mode 100644
+index 0000000..6131ff0
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/META-INF/react-native-safe-area-context_debug.kotlin_module differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/EdgeInsets.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/EdgeInsets.class
+new file mode 100644
+index 0000000..e481ec1
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/EdgeInsets.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent$Companion.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent$Companion.class
+new file mode 100644
+index 0000000..ffbde39
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent$Companion.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent.class
+new file mode 100644
+index 0000000..7d62170
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/InsetsChangeEvent.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/Rect.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/Rect.class
+new file mode 100644
+index 0000000..1602b8c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/Rect.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/Safe.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/Safe.class
+new file mode 100644
+index 0000000..fa30fb6
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/Safe.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule$Companion.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule$Companion.class
+new file mode 100644
+index 0000000..6bffa3e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule$Companion.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule.class
+new file mode 100644
+index 0000000..f6c4417
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaContextModule.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaContextPackage.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaContextPackage.class
+new file mode 100644
+index 0000000..5de9885
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaContextPackage.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProvider.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProvider.class
+new file mode 100644
+index 0000000..9aaf22b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProvider.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderKt.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderKt.class
+new file mode 100644
+index 0000000..5644d48
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$Companion.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$Companion.class
+new file mode 100644
+index 0000000..3075b70
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$Companion.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$addEventEmitters$1.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$addEventEmitters$1.class
+new file mode 100644
+index 0000000..7e3e33b
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager$addEventEmitters$1.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager.class
+new file mode 100644
+index 0000000..f25d306
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManager.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManagerKt.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManagerKt.class
+new file mode 100644
+index 0000000..0d2038a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaProviderManagerKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaUtilsKt.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaUtilsKt.class
+new file mode 100644
+index 0000000..becdec5
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaUtilsKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaView.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaView.class
+new file mode 100644
+index 0000000..766354c
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaView.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdgeModes.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdgeModes.class
+new file mode 100644
+index 0000000..962557a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdgeModes.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdges.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdges.class
+new file mode 100644
+index 0000000..1098432
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewEdges.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewKt.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewKt.class
+new file mode 100644
+index 0000000..dba782e
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.class
+new file mode 100644
+index 0000000..8a98f78
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewLocalData.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager$Companion.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager$Companion.class
+new file mode 100644
+index 0000000..13e973a
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager$Companion.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager.class
+new file mode 100644
+index 0000000..4302bdf
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewManager.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewMode.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewMode.class
+new file mode 100644
+index 0000000..1d47183
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewMode.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.class
+new file mode 100644
+index 0000000..1334fb4
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SerializationUtilsKt.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SerializationUtilsKt.class
+new file mode 100644
+index 0000000..fc17969
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/SerializationUtilsKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/UIManagerHelperCompatKt.class b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/UIManagerHelperCompatKt.class
+new file mode 100644
+index 0000000..492f89d
+Binary files /dev/null and b/node_modules/react-native-safe-area-context/android/build/tmp/kotlin-classes/debug/com/th3rdwave/safeareacontext/UIManagerHelperCompatKt.class differ
+diff --git a/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextModule.kt b/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextModule.kt
+index 8261d39..a602352 100644
+--- a/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextModule.kt
++++ b/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextModule.kt
+@@ -14,17 +14,25 @@ class SafeAreaContextModule(reactContext: ReactApplicationContext?) :
+   }
+ 
+   public override fun getTypedExportedConstants(): Map<String, Any> {
+-    return MapBuilder.of<String, Any>("initialWindowMetrics", getInitialWindowMetrics())
++    val initialWindowMetrics = getInitialWindowMetrics() ?: emptyMap()
++    return MapBuilder.of<String, Any>("initialWindowMetrics", initialWindowMetrics)
+   }
+ 
+   private fun getInitialWindowMetrics(): Map<String, Any>? {
+-    val decorView = reactApplicationContext.currentActivity?.window?.decorView as ViewGroup?
+-    val contentView = decorView?.findViewById<View>(android.R.id.content) ?: return null
++    val decorView = reactApplicationContext.currentActivity?.window?.decorView as? ViewGroup
++    val contentView = decorView?.findViewById<View>(android.R.id.content)
++    if (decorView == null || contentView == null) return null
++
+     val insets = getSafeAreaInsets(decorView)
+     val frame = getFrame(decorView, contentView)
+     return if (insets == null || frame == null) {
+       null
+-    } else mapOf("insets" to edgeInsetsToJavaMap(insets), "frame" to rectToJavaMap(frame))
++    } else {
++      mapOf(
++              "insets" to edgeInsetsToJavaMap(insets),
++              "frame" to rectToJavaMap(frame)
++      )
++    }
+   }
+ 
+   companion object {

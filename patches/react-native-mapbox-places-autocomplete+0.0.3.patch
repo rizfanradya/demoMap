@@ -1,0 +1,44 @@
+diff --git a/node_modules/react-native-mapbox-places-autocomplete/index.js b/node_modules/react-native-mapbox-places-autocomplete/index.js
+index 37c0f45..5edcbcf 100644
+--- a/node_modules/react-native-mapbox-places-autocomplete/index.js
++++ b/node_modules/react-native-mapbox-places-autocomplete/index.js
+@@ -24,8 +24,10 @@ const MapboxPlacesAutocomplete = ({
+   onPlaceSelect,
+   countryId = "de",
+   onClearInput,
++  onChangeLocation,
++  defaultValue,
+ }) => {
+-  const placesAutocomplete = usePlacesAutocomplete("", accessToken, countryId);
++  const placesAutocomplete = usePlacesAutocomplete("", accessToken, countryId, onChangeLocation);
+   if (id === "" || typeof id !== "string")
+     throw new Error(
+       "[MapboxPlacesAutocomplete] Property `id` is required and must be a string."
+@@ -38,6 +40,8 @@ const MapboxPlacesAutocomplete = ({
+     >
+       <TextInput
+         {...{ ...placesAutocomplete, placeholder }}
++        placeholderTextColor={'gray'}
++        value={defaultValue}
+         style={[styles.input, inputStyle]}
+         className={inputClassName}
+       />
+diff --git a/node_modules/react-native-mapbox-places-autocomplete/utils/usePlacesAutocomplete.js b/node_modules/react-native-mapbox-places-autocomplete/utils/usePlacesAutocomplete.js
+index 019afaf..00077f1 100644
+--- a/node_modules/react-native-mapbox-places-autocomplete/utils/usePlacesAutocomplete.js
++++ b/node_modules/react-native-mapbox-places-autocomplete/utils/usePlacesAutocomplete.js
+@@ -1,12 +1,12 @@
+ import { useState } from "react";
+ 
+-const usePlacesAutocomplete = (initialValue, accessToken, countryId) => {
++const usePlacesAutocomplete = (initialValue, accessToken, countryId, onChangeLocation) => {
+   const [value, setValue] = useState(initialValue);
+   const [suggestions, setSuggestions] = useState([]);
+ 
+   const handleChange = async (inputText) => {
+     setValue(inputText);
+-
++    onChangeLocation(inputText)
+     try {
+       const endpoint = `https://api.mapbox.com/geocoding/v5/mapbox.places/${value}.json?access_token=${accessToken}&country=${countryId}&autocomplete=true`;
+       const response = await fetch(endpoint);

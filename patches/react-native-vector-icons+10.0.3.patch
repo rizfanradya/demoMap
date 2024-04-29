@@ -1,0 +1,29 @@
+diff --git a/node_modules/react-native-vector-icons/fonts.gradle b/node_modules/react-native-vector-icons/fonts.gradle
+index 951394b..4b8f98f 100644
+--- a/node_modules/react-native-vector-icons/fonts.gradle
++++ b/node_modules/react-native-vector-icons/fonts.gradle
+@@ -34,5 +34,24 @@ afterEvaluate {
+       
+         def generateAssetsTask = tasks.findByName("generate${targetName}Assets")
+         generateAssetsTask.dependsOn(fontCopyTask)
++
++        def lintAnalyzeTask = tasks.findByName("lintAnalyze${targetName}")
++        lintAnalyzeTask?.dependsOn(fontCopyTask)
++
++            def generateReportModelTask = tasks.findByName("generate${targetName}LintReportModel")
++    if (generateReportModelTask) {
++        generateReportModelTask.dependsOn(fontCopyTask)
++    }
++
++    def lintAnalyzeDebugTask = tasks.findByName("lintAnalyze${targetName}")
++    if (lintAnalyzeDebugTask) {
++        lintAnalyzeDebugTask.dependsOn(fontCopyTask)
++    }
++
++    def generateReleaseLintVitalReportModelTask = tasks.findByName("generate${targetName}LintVitalReportModel")
++    if (generateReleaseLintVitalReportModelTask) {
++        generateReleaseLintVitalReportModelTask.dependsOn(fontCopyTask)
++    }
++
+       }
+ }
